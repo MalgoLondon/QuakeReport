@@ -5,6 +5,8 @@ package com.example.android.quakereport;
  */
 public class Earthquake {
 
+    // This is a git test
+
     /** Magnitude of the earthquake */
     private double mMagnitude;
 
@@ -31,6 +33,7 @@ public class Earthquake {
         mLocation = location;
         mTimeInMilliseconds = timeInMilliseconds;
         mUrl = url;
+        // TODO do something here
     }
 
     /**

@@ -11,6 +11,7 @@
         android:layout_height="36dp"
         android:id="@+id/magnitude"
         android:layout_gravity="center_vertical"
+        android:text="@string/my_text"
         android:gravity="center"
         />
     
