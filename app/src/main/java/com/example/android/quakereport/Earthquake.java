@@ -33,7 +33,6 @@ public class Earthquake {
         mLocation = location;
         mTimeInMilliseconds = timeInMilliseconds;
         mUrl = url;
-        // TODO do something here
     }
 
     /**
